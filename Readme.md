@@ -1,4 +1,4 @@
-1ra Entrega
+2da Entrega
 
 1. Modelado inicial de clases
 
@@ -20,3 +20,8 @@ Estructuras de control (switch, while) para mostrar opciones
    Marcar como completada
    Usar ArrayList o HashMap
    Formato de entrega: archivo comprimido (.rar)
+
+
+   agregar excepciones personalizadas
+   agreagar resguardo en archivo
+   implementar interfaz funcional 
